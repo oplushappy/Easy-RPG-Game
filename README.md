@@ -5,13 +5,13 @@ A easy Maze RPG game which maze size you decide
 ## Demo
 
 1. Begin
-<img src="demo_img/begin.png" heigh="1000">
+   <img src="demo_img/begin.png" heigh="1000">
 
 2. Chose birth position
-<img src="demo_img/start_position.png" heigh="1000">
+   <img src="demo_img/start_position.png" heigh="1000">
 
 3. Attack
-<img src="demo_img/play.png" heigh="1000">
+   <img src="demo_img/play.png" heigh="1000">
 
 4. Go to Village and Recovery
 ![](demo_img/village.png)
