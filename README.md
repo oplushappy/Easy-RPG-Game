@@ -33,7 +33,7 @@ gcc easy_game.c
 
 1. Decide map size:
 
-Player can specify size of the map and the birth location ,then the game begin and the player use keyboard to play .
+   Player can specify size of the map and the birth location ,then the game begin and the player use keyboard to play .
 
 2. Keyboard command:
 
