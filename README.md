@@ -5,10 +5,10 @@ A easy Maze RPG game which maze size you decide
 ## Demo
 
 1. Begin
-![](demo_img/begin.png)
+   ![](demo_img/begin.png)
 
 2. Chose birth position
-![](demo_img/start_position.png)
+   ![](demo_img/start_position.png)
 
 3. Attack
 ![](demo_img/play.png)
